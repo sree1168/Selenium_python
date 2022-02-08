@@ -1,0 +1,123 @@
+2022-02-08 16:17:09,213: INFO: test_e2e: Registering first user
+2022-02-08 16:28:18,826: INFO: test_e2e: Registering first user
+2022-02-08 16:28:20,854: INFO: test_e2e: Entered firstname
+2022-02-08 16:28:20,933: INFO: test_e2e: Entered lastname
+2022-02-08 16:28:20,998: INFO: test_e2e: Entered email
+2022-02-08 16:28:21,188: INFO: test_e2e: Entered DOB
+2022-02-08 16:28:21,208: INFO: test_e2e: going to next
+2022-02-08 16:28:21,883: INFO: test_e2e: clicked next
+2022-02-08 16:28:24,104: INFO: test_e2e: going to next
+2022-02-08 16:28:24,868: INFO: test_e2e: clicking OS
+2022-02-08 17:17:06,378: INFO: test_e2e: Registering first user
+2022-02-08 17:17:11,651: INFO: test_e2e: Entered firstname
+2022-02-08 17:17:11,714: INFO: test_e2e: Entered lastname
+2022-02-08 17:17:11,776: INFO: test_e2e: Entered email
+2022-02-08 17:17:11,931: INFO: test_e2e: Entered DOB
+2022-02-08 17:17:11,946: INFO: test_e2e: going to next
+2022-02-08 17:17:12,683: INFO: test_e2e: clicked next
+2022-02-08 17:17:14,376: INFO: test_e2e: going to next
+2022-02-08 17:17:15,111: INFO: test_e2e: clicking OS
+2022-02-08 17:19:22,353: INFO: test_e2e: Registering first user
+2022-02-08 17:19:24,380: INFO: test_e2e: Entered firstname
+2022-02-08 17:19:24,438: INFO: test_e2e: Entered lastname
+2022-02-08 17:19:24,517: INFO: test_e2e: Entered email
+2022-02-08 17:19:24,667: INFO: test_e2e: Entered DOB
+2022-02-08 17:19:24,676: INFO: test_e2e: going to next
+2022-02-08 17:19:25,348: INFO: test_e2e: clicked next
+2022-02-08 17:19:30,846: INFO: test_e2e: going to next
+2022-02-08 17:19:31,529: INFO: test_e2e: clicking OS
+2022-02-08 17:22:57,203: INFO: test_e2e: Registering first user
+2022-02-08 17:22:58,918: INFO: test_e2e: Entered firstname
+2022-02-08 17:22:58,984: INFO: test_e2e: Entered lastname
+2022-02-08 17:22:59,056: INFO: test_e2e: Entered email
+2022-02-08 17:22:59,210: INFO: test_e2e: Entered DOB
+2022-02-08 17:22:59,225: INFO: test_e2e: going to next
+2022-02-08 17:22:59,904: INFO: test_e2e: clicked next
+2022-02-08 17:23:56,517: INFO: test_e2e: Registering first user
+2022-02-08 17:24:00,355: INFO: test_e2e: Entered firstname
+2022-02-08 17:24:00,417: INFO: test_e2e: Entered lastname
+2022-02-08 17:24:00,485: INFO: test_e2e: Entered email
+2022-02-08 17:24:00,648: INFO: test_e2e: Entered DOB
+2022-02-08 17:24:00,661: INFO: test_e2e: going to next
+2022-02-08 17:24:01,350: INFO: test_e2e: clicked next
+2022-02-08 17:24:02,676: INFO: test_e2e: going to next
+2022-02-08 17:24:03,390: INFO: test_e2e: clicking OS
+2022-02-08 17:27:19,719: INFO: test_e2e: Registering first user
+2022-02-08 17:27:25,584: INFO: test_e2e: Entered firstname
+2022-02-08 17:27:25,658: INFO: test_e2e: Entered lastname
+2022-02-08 17:27:25,726: INFO: test_e2e: Entered email
+2022-02-08 17:27:25,877: INFO: test_e2e: Entered DOB
+2022-02-08 17:27:25,890: INFO: test_e2e: going to next
+2022-02-08 17:27:26,592: INFO: test_e2e: clicked next
+2022-02-08 17:27:28,024: INFO: test_e2e: going to next
+2022-02-08 17:27:28,718: INFO: test_e2e: clicking OS
+2022-02-08 17:33:28,556: INFO: test_e2e: Registering first user
+2022-02-08 17:33:30,290: INFO: test_e2e: Entered firstname
+2022-02-08 17:33:30,359: INFO: test_e2e: Entered lastname
+2022-02-08 17:33:30,429: INFO: test_e2e: Entered email
+2022-02-08 17:33:30,613: INFO: test_e2e: Entered DOB
+2022-02-08 17:33:30,629: INFO: test_e2e: going to next
+2022-02-08 17:33:31,333: INFO: test_e2e: clicked next
+2022-02-08 17:33:36,575: INFO: test_e2e: going to next
+2022-02-08 17:33:37,267: INFO: test_e2e: clicking OS
+2022-02-08 17:35:31,640: INFO: test_e2e: Registering first user
+2022-02-08 17:35:33,497: INFO: test_e2e: Entered firstname
+2022-02-08 17:35:33,562: INFO: test_e2e: Entered lastname
+2022-02-08 17:35:33,631: INFO: test_e2e: Entered email
+2022-02-08 17:35:33,757: INFO: test_e2e: Entered DOB
+2022-02-08 17:35:33,772: INFO: test_e2e: going to next
+2022-02-08 17:35:34,408: INFO: test_e2e: clicked next
+2022-02-08 17:37:24,441: INFO: test_e2e: Registering first user
+2022-02-08 17:37:26,455: INFO: test_e2e: Entered firstname
+2022-02-08 17:37:26,519: INFO: test_e2e: Entered lastname
+2022-02-08 17:37:26,594: INFO: test_e2e: Entered email
+2022-02-08 17:37:26,765: INFO: test_e2e: Entered DOB
+2022-02-08 17:37:26,784: INFO: test_e2e: going to next
+2022-02-08 17:37:27,410: INFO: test_e2e: clicked next
+2022-02-08 17:37:33,796: INFO: test_e2e: going to next
+2022-02-08 17:37:34,501: INFO: test_e2e: clicking OS
+2022-02-08 17:40:32,122: INFO: test_e2e: Registering first user
+2022-02-08 17:40:36,425: INFO: test_e2e: Entered firstname
+2022-02-08 17:40:36,519: INFO: test_e2e: Entered lastname
+2022-02-08 17:40:36,624: INFO: test_e2e: Entered email
+2022-02-08 17:40:36,868: INFO: test_e2e: Entered DOB
+2022-02-08 17:40:36,887: INFO: test_e2e: going to next
+2022-02-08 17:40:37,644: INFO: test_e2e: clicked next
+2022-02-08 17:40:39,028: INFO: test_e2e: going to next
+2022-02-08 17:40:39,852: INFO: test_e2e: clicking OS
+2022-02-08 17:46:49,879: INFO: test_e2e: Registering first user
+2022-02-08 17:47:01,118: INFO: test_e2e: Entered firstname
+2022-02-08 17:47:01,203: INFO: test_e2e: Entered lastname
+2022-02-08 17:47:01,287: INFO: test_e2e: Entered email
+2022-02-08 17:47:01,605: INFO: test_e2e: Entered DOB
+2022-02-08 17:47:01,628: INFO: test_e2e: going to next
+2022-02-08 17:47:02,359: INFO: test_e2e: clicked next
+2022-02-08 17:47:03,756: INFO: test_e2e: going to next
+2022-02-08 17:47:04,503: INFO: test_e2e: clicking OS
+2022-02-08 17:50:03,705: INFO: test_e2e: Registering first user
+2022-02-08 17:50:13,269: INFO: test_e2e: Entered firstname
+2022-02-08 17:50:13,352: INFO: test_e2e: Entered lastname
+2022-02-08 17:50:13,431: INFO: test_e2e: Entered email
+2022-02-08 17:50:13,640: INFO: test_e2e: Entered DOB
+2022-02-08 17:50:13,655: INFO: test_e2e: going to next
+2022-02-08 17:50:14,330: INFO: test_e2e: clicked next
+2022-02-08 17:50:16,161: INFO: test_e2e: going to next
+2022-02-08 17:50:17,036: INFO: test_e2e: clicking OS
+2022-02-08 17:51:48,963: INFO: test_e2e: Registering first user
+2022-02-08 17:51:51,162: INFO: test_e2e: Entered firstname
+2022-02-08 17:51:51,223: INFO: test_e2e: Entered lastname
+2022-02-08 17:51:51,292: INFO: test_e2e: Entered email
+2022-02-08 17:51:51,471: INFO: test_e2e: Entered DOB
+2022-02-08 17:51:51,488: INFO: test_e2e: going to next
+2022-02-08 17:51:52,237: INFO: test_e2e: clicked next
+2022-02-08 17:51:56,913: INFO: test_e2e: going to next
+2022-02-08 17:51:57,655: INFO: test_e2e: clicking OS
+2022-02-08 17:52:51,044: INFO: test_e2e: Registering first user
+2022-02-08 17:52:52,815: INFO: test_e2e: Entered firstname
+2022-02-08 17:52:52,901: INFO: test_e2e: Entered lastname
+2022-02-08 17:52:52,979: INFO: test_e2e: Entered email
+2022-02-08 17:52:53,242: INFO: test_e2e: Entered DOB
+2022-02-08 17:52:53,261: INFO: test_e2e: going to next
+2022-02-08 17:52:53,962: INFO: test_e2e: clicked next
+2022-02-08 17:53:00,391: INFO: test_e2e: going to next
+2022-02-08 17:53:01,150: INFO: test_e2e: clicking OS
