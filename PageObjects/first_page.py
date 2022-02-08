@@ -10,7 +10,7 @@ class FirstPage(BaseClass):
         self.driver = driver
 
 
-    Register = (By.XPATH,"//a[contains(text(),'Register')]")
+    register = (By.XPATH,"//a[contains(text(),'Register')]")
     Firstname = (By.NAME, "firstName")
     Lastname = (By.NAME, "lastName")
     Email = (By.ID,"email")
@@ -23,7 +23,7 @@ class FirstPage(BaseClass):
 
 
     def register(self):
-        return self.driver.find_element(*FirstPage.Register)
+        return self.driver.find_element(*FirstPage.register)
 
     def firstname(self):
         return self.driver.find_element(*FirstPage.Firstname)
